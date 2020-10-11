@@ -1,4 +1,4 @@
-# Wireless-Network-Management-with-Arduino
+# Wireless Network Management with Arduino
 
 This assignment is part of the course Applications of Telecommunications Systems(Auth 8th semester).The goal is to design and construct a centralised and distributed wireless sensor network which consists of four nodes.One node functions as the receiver while the other three nodes as transmitters.
 
