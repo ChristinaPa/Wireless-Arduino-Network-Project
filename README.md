@@ -9,7 +9,6 @@ The sensors used are Pulse Sensor SEN-11574,Temperature and Humidity Sensor DHT1
 <p align="center">
   <img width="300"  src="https://github.com/ChristinaPa/Wireless-Arduino-Network-Project/blob/master/Logo.png">
 </p>
-
 The report and presentation are in Greek.
 
 
